@@ -11,6 +11,7 @@ Un’azienda che mette in contatto consumatori e attività commerciali per ridur
 - Tecniche di analisi: ricerca errori ortografici (es. "Molano"), aggregazioni, confronti tra gruppi (es. media kg salvati con/senza promozioni social).
 
 **Struttura del file**  
+Il file Excel `Francesca_Carrera_Excel_FoodWaste.xlsx` contiene i seguenti fogli:  
 - `Presentazione` – introduzione al progetto.
 - `Test` – elenco delle domande, risposte e processo in breve.
 - `RawData` – dataset originale.
